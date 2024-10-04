@@ -1,1 +1,2 @@
-# Sorting-and-Searching-Visualizer
+# Sorting-SearchingVisualizer
+Sorting&amp;SearchingVisualizer
